@@ -15,7 +15,7 @@ Our repositories consist of the following:
 
 ## Building and running
 
-This project has a complex software stack consisting of various components that correspond to different aspects of the robot. These instructions are divided into sections, one for the ROS-baseed software, and another for the Arduino-based software for the robot’s food box.
+This project has a complex software stack consisting of various components that correspond to different aspects of the robot. These instructions are divided into sections, one for the ROS-based software, and another for the Arduino-based software for the robot’s food box.
 
 ### ROS-based software
 
